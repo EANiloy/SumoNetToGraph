@@ -10,7 +10,7 @@ The code is tested with a very small road network.
 
 # Screenshots
 Road Network in netedit
-![alt text]https://github.com/EANiloy/SumoNetToGraph/blob/main/images/network.png?raw=true
+![alt text]https://github.com/EANiloy/SumoNetToGraph/blob/main/Images/network.png?raw=true
 
 Graph constructed from road network
-![alt text]https://github.com/EANiloy/SumoNetToGraph/blob/main/images/plot.png?raw=true
+![alt text]https://github.com/EANiloy/SumoNetToGraph/blob/main/Images/plot.png?raw=true
