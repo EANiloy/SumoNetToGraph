@@ -9,8 +9,8 @@ To run the code you need Networkx, Matplotlib, and ElementTree. All of them are 
 The code is tested with a very small road network.
 
 # Screenshots
-Road Network in netedit
-![alt text]https://github.com/EANiloy/SumoNetToGraph/blob/main/Images/network.png?raw=true
+### Road Network in netedit
+<img src="https://github.com/EANiloy/SumoNetToGraph/blob/main/Images/network.png?raw=true" alt="roadNetwork" height=512 weight=512>
 
-Graph constructed from road network
-![alt text]https://github.com/EANiloy/SumoNetToGraph/blob/main/Images/plot.png?raw=true
+### Graph constructed from road network
+<img src="https://github.com/EANiloy/SumoNetToGraph/blob/main/Images/plot.png?raw=true" alt="graph" height=512 weight=512>
